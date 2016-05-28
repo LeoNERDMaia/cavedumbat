@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 1fea0944fa93f954c9a659741a0def74
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 116
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WingR1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 145
+        width: 93
+        height: 87
+      alignment: 9
+      pivot: {x: .970000029, y: 0}
+    - name: WingR2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 144
+        width: 89
+        height: 60
+      alignment: 9
+      pivot: {x: .99000001, y: 0}
+    - name: WingR3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 144
+        width: 92
+        height: 32
+      alignment: 9
+      pivot: {x: .99000001, y: 0}
+    - name: WingRDead
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 142
+        width: 86
+        height: 48
+      alignment: 9
+      pivot: {x: .980000019, y: .100000001}
+    - name: WingL1
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 153
+        width: 59
+        height: 63
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: WingL2
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 154
+        width: 78
+        height: 40
+      alignment: 9
+      pivot: {x: .409999996, y: 0}
+    - name: WingL3
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 148
+        width: 69
+        height: 25
+      alignment: 9
+      pivot: {x: .5, y: 0}
+    - name: WingLDead
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 152
+        width: 56
+        height: 38
+      alignment: 9
+      pivot: {x: .949999988, y: 0}
+    - name: WingR4
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 116
+        width: 98
+        height: 33
+      alignment: 9
+      pivot: {x: .99000001, y: .910000026}
+    - name: WingR5
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 97
+        width: 81
+        height: 52
+      alignment: 9
+      pivot: {x: .980000019, y: .939999998}
+    - name: WingL5
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 109
+        width: 75
+        height: 39
+      alignment: 9
+      pivot: {x: .860000014, y: 1}
+    - name: Head1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7
+        width: 65
+        height: 71
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: Head2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: -.0630973056, y: .507887244}
+    - name: Head3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 8
+        width: 66
+        height: 70
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: Head4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 10
+        width: 74
+        height: 66
+      alignment: 9
+      pivot: {x: .119999997, y: .5}
+    - name: Leg1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 27
+        width: 47
+        height: 26
+      alignment: 5
+      pivot: {x: 1, y: .5}
+    - name: Leg2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 27
+        width: 54
+        height: 23
+      alignment: 5
+      pivot: {x: 1, y: .5}
+    - name: Leg3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 17
+        width: 41
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: .5}
+  spritePackingTag: 
+  userData: 

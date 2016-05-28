@@ -1,0 +1,6 @@
+proj.AppId=863264658669
+android.SetupDone=true
+ios.ClientId=863264658669-1s6ti3qq3h5ckufkgkmn3i6c1o213t0h.apps.googleusercontent.com
+ios.BundleId=com.newbgames.cavebat
+ios.SetupDone=true
+lastUpgrade=00900
